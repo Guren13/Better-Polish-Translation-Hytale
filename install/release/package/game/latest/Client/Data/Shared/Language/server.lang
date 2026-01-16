@@ -122,14 +122,15 @@ assetTypes.ReachLocationMarkerAsset = Znacznik dotarcia do lokalizacji
 # === barter ===
 
 # Shops
-barter.klops_merchant.title = Klops Merchant
-barter.kweebec_merchant.title = Rootling Merchant
+barter.klops_merchant.title = Kupiec Klops
+barter.kweebec_merchant.title = Kupiec Rootling
+
 # UI
-barter.customUI.barterPage.restocksToday = Restocks today at {restockTime}
-barter.customUI.barterPage.restocksTomorrow = Restocks tomorrow at {restockTime}
-barter.customUI.barterPage.restocksInDays = Restocks in {days} {days, plural, one {day} other {days}}
-barter.customUI.barterPage.noStock = <b>OUT OF STOCK</b>
-barter.customUI.barterPage.inStock = Stock: {count}
+barter.customUI.barterPage.restocksToday = Dostawa dziś o {restockTime}
+barter.customUI.barterPage.restocksTomorrow = Dostawa jutro o {restockTime}
+barter.customUI.barterPage.restocksInDays = Dostawa za {days} {days, plural, one {dzień} other {dni}}
+barter.customUI.barterPage.noStock = <b>BRAK NA STANIE</b>
+barter.customUI.barterPage.inStock = Stan: {count}
 
 # === benchCategories ===
 
@@ -7788,6 +7789,7 @@ universe.backup.error = An error has occurred while creating a backup: {message}
 
 world.spawn.notSet = World '{worldName}' doesn't have a spawn point set!
 world.notFound = Couldn't find world '{worldName}'!
+
 
 
 
