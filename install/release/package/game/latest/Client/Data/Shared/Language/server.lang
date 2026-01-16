@@ -3402,7 +3402,7 @@ customUI.origin.top_center = Top Center
 
 # === entityEffects ===
 
-entityEffects.Poison = Poison
+entityEffects.Poison = Trucizna
 
 # === formatting ===
 
@@ -3415,122 +3415,127 @@ formatting.list.inlineHeaderSuffix = ": "
 # === general ===
 
 general.pickedUpItem = {item}
-general.teleport.teleportedTo = Teleported to {username}
-general.teleport.requesterOffline = The requester went offline
-general.teleport.couldNotTeleport = Could not teleport!
-general.requestPopup.expired = The request has already expired
-general.setCreativeItem.notInCreativeMode = You are not in creative mode! SetCreativeItem is not allowed!
-general.crafting.missingIngredient = You are missing items required to craft the item {item}
-general.crafting.failedTakingCorrectQuantity = SEVER ERROR: Failed to take correct quantity of input materials!
-general.failedToSetBlockState = Failed to set blockstate at ({x, number}, {y, number}, {z, number})
-general.failedToSetBlockStateFor = Failed to set blockstate at ({x, number}, {y, number}, {z, number}) for {block}
-general.gamemodes.adventure = Adventure
-general.gamemodes.creative = Creative
-general.qualities.Junk = Junk
-general.qualities.Common = Common
-general.qualities.Uncommon = Uncommon
-general.qualities.Rare = Rare
-general.qualities.Epic = Epic
-general.qualities.Legendary = Legendary
-general.qualities.Developer = Developer
-general.qualities.Default = Default
-general.qualities.Tool = Tool
-general.qualities.Technical = Technical
-general.qualities.Template = Template
+general.teleport.teleportedTo = Teleportowano do {username}
+general.teleport.requesterOffline = Nadawca prośby jest offline
+general.teleport.couldNotTeleport = Nie udało się przeteleportować!
+general.requestPopup.expired = Prośba wygasła
+general.setCreativeItem.notInCreativeMode = Nie jesteś w trybie kreatywnym! SetCreativeItem jest niedozwolone!
+general.crafting.missingIngredient = Brakuje wymaganych przedmiotów do stworzenia: {item}
+general.crafting.failedTakingCorrectQuantity = BŁĄD SERWERA: Nie udało się pobrać poprawnej ilości materiałów!
+general.failedToSetBlockState = Nie udało się ustawić stanu bloku na ({x, number}, {y, number}, {z, number})
+general.failedToSetBlockStateFor = Nie udało się ustawić stanu bloku na ({x, number}, {y, number}, {z, number}) dla {block}
+
+general.gamemodes.adventure = Przygodowy
+general.gamemodes.creative = Kreatywny
+
+general.qualities.Junk = Złom
+general.qualities.Common = Zwykły
+general.qualities.Uncommon = Niezwykły
+general.qualities.Rare = Rzadki
+general.qualities.Epic = Epicki
+general.qualities.Legendary = Legendarny
+general.qualities.Developer = Deweloperski
+general.qualities.Default = Domyślny
+general.qualities.Tool = Narzędzie
+general.qualities.Technical = Techniczny
+general.qualities.Template = Szablon
 general.qualities.Debug = Debug
-general.damageCauses.unknown = unknown
-general.damageCauses.fall = falling
-general.damageCauses.outofworld = falling out of the world
-general.damageCauses.drowning = drowning
-general.damageCauses.elemental = elemental damage
-general.damageCauses.physical = physical damage
-general.damageCauses.suffocation = suffocation
-general.damageCauses.environment = environmental damage
-general.damageCauses.bludgeoning = bludgeoning
-general.damageCauses.burn = burning
-general.damageCauses.spikes = a spike trap
-general.damageCauses.block = block damage
-general.damageCauses.snapjaw = a snapjaw trap
-general.damageCauses.explosion = an explosion
-general.damageCauses.poison_t1 = poison damage
-general.damageCauses.poison_t2 = poison damage
-general.damageCauses.projectile = a projectile
-general.damageCauses.command = a command
-general.damageCauses.out_of_world = falling out of the world
-general.killedBy = You were killed by {damageSource}!
-general.killedByProjectile = You were killed by {damageSource} using {projectile}!
-general.killedByCommand = You were killed by {displayName} using command '{commandName}'!
-general.killedByUnknown = You were killed by an unknown force!
-general.killedEntity = You killed {entityName}!
-general.itemsLossPrevented = Item loss prevented in this world!
-general.itemsDurabilityLoss = Your items lost <color is="#be1717">{percentage}%</color> durability!
-general.itemsAmountLoss = You dropped the following items on the ground:
-general.interaction.configureInstance.noInstanceName = BlockState is missing instance name
-general.etc = etc.
-general.unknown = Unknown
-general.playerJoinedWorld = {username} has joined {world}
-general.playerLeftWorld = {username} has left {world}
-general.failed.didYouMean = Did you mean? {choices}
-general.command.playerOnly = This command can only be used by players.
-general.blockTargetNotInRange = You're not targetting a block within range.
-general.containerNotFound = Could not find container at target block {block}
-general.pathNotGitRepo = '{path}' does not look like a git repo! Missing .git directory!
-general.invalidArgumentCount = Invalid argument count
-general.enabled = Enabled
-general.disabled = Disabled
-general.errorWithReason = Error: {reason}
-general.loadedPrefab = Loaded Prefab {name}
-general.chunkNotLoaded = Chunk {chunkX}, {chunkZ} is not loaded into memory!
-general.noEntityInView = No entity in view
-general.gamepacket.legacyItemDrop = Legacy item drop code!! Please change, thx
-general.assetstore.reloadAssets = Reloaded assets for {class}
-general.assetstore.loadFailed = Failed to load assets for {class}
-general.assetstore.removedAssets = Removed Assets for {class}
-general.assetstore.removedAssetsSecondaryGeneric = {count} assets modified
-general.invalidId = Invalid EntityId '{id}'
-general.entityNotFound = Unable to find entity with id {id}
-general.repair.penaltyTooBig = Repair penalty too large for this item.
-general.repair.successful = You repaired your {itemName}!
-general.repair.itemBroken = Your {itemName} broke and became less effective! You should use a Repair Kit!
-general.repair.itemBroken_Hoe = Your {itemName} broke and can't till soil anymore! You should use a Repair Kit!
-general.repair.tooltipMessage = This item is broken and less effective. It should be repaired.
-general.repair.noItemToRepair = You don't have any item you can repair.
-general.repair.tooLowDurability = The maximum durability of this item has become too low to repair it efficiently. You should craft a new one!
-general.repair.itemBrokenOnRespawn = You have broken items in your inventory! You should repair them!
-general.tooltip.durability = Durability: {durability, number}/{maxDurability, number}
-general.paused = paused
-general.resumed = resumed
-general.playerInInvalidChunk = You are in an invalid chunk, moving you out!
-general.hotbar.invalidSlot = Invalid hotbar slot, must be between 0 and 9
-general.hotbar.invalidGameMode = You must be in Creative Mode to use saved hotbars
-general.hotbar.loaded = Loaded hotbar {id}
-general.respawnPointObstructed = Your respawn point "{respawnPointName}" is obstructed; trying next option.
-general.allRespawnPointsObstructed = All your respawn points are obstructed; you will respawn at the world spawn.
-general.flyCamera.enabled = Fly Camera Enabled (hold Shift and toggle the fly camera again to reset the camera position)
-general.flyCamera.disabled = Fly Camera Disabled
-general.flyCamera.noPermission = You don't have permission to use fly camera mode.
+
+general.damageCauses.unknown = nieznane obrażenia
+general.damageCauses.fall = upadek
+general.damageCauses.outofworld = wypadnięcie poza świat
+general.damageCauses.drowning = utonięcie
+general.damageCauses.elemental = obrażenia żywiołów
+general.damageCauses.physical = obrażenia fizyczne
+general.damageCauses.suffocation = uduszenie
+general.damageCauses.environment = obrażenia środowiskowe
+general.damageCauses.bludgeoning = obrażenia obuchowe
+general.damageCauses.burn = spalenie
+general.damageCauses.spikes = pułapka z kolcami
+general.damageCauses.block = obrażenia od bloku
+general.damageCauses.snapjaw = pułapka snapjaw
+general.damageCauses.explosion = eksplozja
+general.damageCauses.poison_t1 = zatrucie
+general.damageCauses.poison_t2 = zatrucie
+general.damageCauses.projectile = pocisk
+general.damageCauses.command = komenda
+general.damageCauses.out_of_world = wypadnięcie poza świat
+general.killedBy = Zginąłeś z powodu: {damageSource}!
+general.killedByProjectile = Zginąłeś od {damageSource} przy użyciu {projectile}!
+general.killedByCommand = Zginąłeś z ręki {displayName} komendą '{commandName}'!
+general.killedByUnknown = Zginąłeś z nieznanego powodu!
+general.killedEntity = Zabiłeś {entityName}!
+general.itemsLossPrevented = Utrata przedmiotów została zablokowana na tym świecie!
+general.itemsDurabilityLoss = Twoje przedmioty straciły <color is="#be1717">{percentage}%</color> wytrzymałości!
+general.itemsAmountLoss = Upuściłeś na ziemię następujące przedmioty:
+general.interaction.configureInstance.noInstanceName = BlockState nie zawiera nazwy instancji
+general.etc = itd.
+general.unknown = Nieznane
+general.playerJoinedWorld = {username} dołączył do świata {world}
+general.playerLeftWorld = {username} opuścił świat {world}
+general.failed.didYouMean = Czy chodziło Ci o: {choices}
+general.command.playerOnly = Ta komenda może być używana tylko przez graczy.
+general.blockTargetNotInRange = Nie celujesz w blok znajdujący się w zasięgu.
+general.containerNotFound = Nie znaleziono pojemnika w bloku {block}
+general.pathNotGitRepo = '{path}' nie wygląda jak repozytorium git! Brak folderu .git
+general.invalidArgumentCount = Nieprawidłowa liczba argumentów
+general.enabled = Włączone
+general.disabled = Wyłączone
+general.errorWithReason = Błąd: {reason}
+general.loadedPrefab = Wczytano prefab {name}
+general.chunkNotLoaded = Chunk {chunkX}, {chunkZ} nie jest załadowany!
+general.noEntityInView = Brak encji w zasięgu wzroku
+general.gamepacket.legacyItemDrop = Stary system dropu przedmiotów! Zmień to, dzięki
+general.assetstore.reloadAssets = Przeładowano zasoby dla {class}
+general.assetstore.loadFailed = Nie udało się załadować zasobów dla {class}
+general.assetstore.removedAssets = Usunięto zasoby dla {class}
+general.assetstore.removedAssetsSecondaryGeneric = Zmodyfikowano {count} zasobów
+general.invalidId = Nieprawidłowe EntityId '{id}'
+general.entityNotFound = Nie znaleziono encji o id {id}
+general.repair.penaltyTooBig = Kara za naprawę jest zbyt duża dla tego przedmiotu.
+general.repair.successful = Naprawiłeś {itemName}!
+general.repair.itemBroken = {itemName} jest uszkodzony i mniej skuteczny! Użyj Zestawu naprawczego!
+general.repair.itemBroken_Hoe = {itemName} jest uszkodzony i nie może już uprawiać ziemi! Użyj Zestawu naprawczego!
+general.repair.tooltipMessage = Ten przedmiot jest uszkodzony i mniej skuteczny. Wymaga naprawy.
+general.repair.noItemToRepair = Nie masz przedmiotów, które można naprawić.
+general.repair.tooLowDurability = Maksymalna wytrzymałość tego przedmiotu jest zbyt niska, by opłacało się go naprawiać. Wytwórz nowy!
+general.repair.itemBrokenOnRespawn = Masz uszkodzone przedmioty w ekwipunku! Powinieneś je naprawić!
+general.tooltip.durability = Wytrzymałość: {durability, number}/{maxDurability, number}
+general.paused = wstrzymano
+general.resumed = wznowiono
+general.playerInInvalidChunk = Znajdujesz się w nieprawidłowym chunku, przenoszenie...
+general.hotbar.invalidSlot = Nieprawidłowy slot paska — musi być między 0 a 9
+general.hotbar.invalidGameMode = Musisz być w trybie kreatywnym, aby używać zapisanych pasków
+general.hotbar.loaded = Wczytano pasek {id}
+general.respawnPointObstructed = Punkt odrodzenia "{respawnPointName}" jest zablokowany — próba kolejnej lokalizacji.
+general.allRespawnPointsObstructed = Wszystkie punkty odrodzenia są zablokowane — odradzasz się na spawnie świata.
+general.flyCamera.enabled = Tryb wolnej kamery włączony (przytrzymaj Shift i przełącz ponownie, aby zresetować pozycję)
+general.flyCamera.disabled = Tryb wolnej kamery wyłączony
+general.flyCamera.noPermission = Nie masz uprawnień do używania wolnej kamery.
+
 
 # === instances ===
 
-instances.forgotten_temple.title = Forgotten Temple
-instances.forgotten_temple.subtitle = Edge of the Echo
-instances.creative_hub.title = Convergence
-instances.creative_hub.subtitle = Cosmos of Creativity
+instances.forgotten_temple.title = Zapomniana Świątynia
+instances.forgotten_temple.subtitle = Krawędź Echa
+
+instances.creative_hub.title = Konwergencja
+instances.creative_hub.subtitle = Kosmos Kreatywności
 
 # === interactionHints ===
 
-interactionHints.generic = Press [{key}] to interact
-interactionHints.open = Press [{key}] to open {name}
-interactionHints.gather = Press [{key}] to pick up {name}
-interactionHints.edit = Press [{key}] to edit
-interactionHints.turnon = Press [{key}] to turn on
-interactionHints.turnoff = Press [{key}] to turn off
-interactionHints.sit = Press [{key}] to sit
-interactionHints.harvest = Press [{key}] to harvest {name}
-interactionHints.trade = Press [{key}] to Trade
-interactionHints.mount = Press [{key}] to Mount
-interactionHints.burst = Press [{key}] to burst {name}
-interactionHints.pickup = Press [{key}] to pick up {name}
+interactionHints.generic = Naciśnij [{key}], aby wejść w interakcję
+interactionHints.open = Naciśnij [{key}], aby otworzyć {name}
+interactionHints.gather = Naciśnij [{key}], aby podnieść {name}
+interactionHints.edit = Naciśnij [{key}], aby edytować
+interactionHints.turnon = Naciśnij [{key}], aby włączyć
+interactionHints.turnoff = Naciśnij [{key}], aby wyłączyć
+interactionHints.sit = Naciśnij [{key}], aby usiąść
+interactionHints.harvest = Naciśnij [{key}], aby zebrać {name}
+interactionHints.trade = Naciśnij [{key}], aby handlować
+interactionHints.mount = Naciśnij [{key}], aby dosiąść
+interactionHints.burst = Naciśnij [{key}], aby zniszczyć {name}
+interactionHints.pickup = Naciśnij [{key}], aby podnieść {name}
 
 # === interactions ===
 
@@ -7789,6 +7794,7 @@ universe.backup.error = An error has occurred while creating a backup: {message}
 
 world.spawn.notSet = World '{worldName}' doesn't have a spawn point set!
 world.notFound = Couldn't find world '{worldName}'!
+
 
 
 
