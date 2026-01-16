@@ -80,43 +80,44 @@ assetTypes.ItemPlayerAnimations.title = Animacje Przedmiotów Gracza
 assetTypes.FluidFX.title = Efekty Wody
 assetTypes.BlockBoundingBoxes.title = Blokowe pola ograniczające
 assetTypes.BlockMigration.title = Zablokuj Migracje
-assetTypes.BlockParticleSet.title = Block Particle Set
-assetTypes.BlockBreakingDecal.title = Block Breaking Decal
-assetTypes.BlockSet.title = Block Set
-assetTypes.BlockSoundSet.title = Block Sound Set
-assetTypes.BlockSpawnerTable.title = Block Spawner Table
-assetTypes.TickProcedure.title = Tick Procedure
-assetTypes.ItemCategory.title = Item Category
-assetTypes.FieldcraftCategory.title = Fieldcraft Category
-assetTypes.Interaction.title = Interaction
-assetTypes.Item.title = Item
-assetTypes.ResourceType.title = Resource Type
-assetTypes.ItemToolSpec.title = Item Tool Spec
-assetTypes.UnarmedInteractions.title = Unarmed Interactions
-assetTypes.ModelAsset.title = Model Asset
-assetTypes.AttitudeGroup.title = Attitude Group
-assetTypes.BalanceAsset.title = Balance Asset
-assetTypes.Condition.title = Condition
-assetTypes.FlockAsset.title = Flock
-assetTypes.NPCGroup.title = NPC Group
-assetTypes.NPCRole.title = NPC Role
-assetTypes.ReputationGroup.title = Reputation Group
-assetTypes.ReputationRank.title = Reputation Rank
-assetTypes.BeaconNPCSpawn.title = Beacon NPC Spawn
-assetTypes.SpawnMarker.title = Spawn Marker
-assetTypes.SpawnSuppression.title = Spawn Suppression
-assetTypes.WorldNPCSpawn.title = World NPC Spawn
-assetTypes.ObjectiveLineAsset.title = Objective Line
-assetTypes.ObjectiveLocationMarkerAsset.title = Objective Location Marker
-assetTypes.ObjectiveAsset.title = Objective
-assetTypes.Projectile.title = Projectile
-assetTypes.ResponseCurve.title = Response Curve
-assetTypes.ShopAsset.title = Shop
-assetTypes.SoundEvent.title = Sound Event
-assetTypes.Weather.title = Weather
-assetTypes.GrowthModifierAsset.title = Growth Modifier
-assetTypes.TagPattern.title = Tag Pattern
-assetTypes.ReachLocationMarkerAsset = Reach Location Marker
+assetTypes.BlockParticleSet.title = Zestaw cząsteczek bloku
+assetTypes.BlockBreakingDecal.title = Efekt pękania bloku
+assetTypes.BlockSet.title = Zestaw bloków
+assetTypes.BlockSoundSet.title = Zestaw dźwięków bloku
+assetTypes.BlockSpawnerTable.title = Tabela spawnu bloku
+assetTypes.TickProcedure.title = Procedura ticku
+assetTypes.ItemCategory.title = Kategoria przedmiotów
+assetTypes.FieldcraftCategory.title = Kategoria rzemiosła polowego
+assetTypes.Interaction.title = Interakcja
+assetTypes.Item.title = Przedmiot
+assetTypes.ResourceType.title = Typ zasobu
+assetTypes.ItemToolSpec.title = Specyfikacja narzędzia przedmiotu
+assetTypes.UnarmedInteractions.title = Interakcje bez broni
+assetTypes.ModelAsset.title = Zasób modelu
+assetTypes.AttitudeGroup.title = Grupa nastawienia
+assetTypes.BalanceAsset.title = Zasób balansu
+assetTypes.Condition.title = Warunek
+assetTypes.FlockAsset.title = Stado
+assetTypes.NPCGroup.title = Grupa NPC
+assetTypes.NPCRole.title = Rola NPC
+assetTypes.ReputationGroup.title = Grupa reputacji
+assetTypes.ReputationRank.title = Ranga reputacji
+assetTypes.BeaconNPCSpawn.title = Spawn NPC z beacona
+assetTypes.SpawnMarker.title = Znacznik spawnu
+assetTypes.SpawnSuppression.title = Tłumienie spawnu
+assetTypes.WorldNPCSpawn.title = Spawn NPC świata
+assetTypes.ObjectiveLineAsset.title = Linia celu
+assetTypes.ObjectiveLocationMarkerAsset.title = Znacznik lokalizacji celu
+assetTypes.ObjectiveAsset.title = Cel
+assetTypes.Projectile.title = Pocisk
+assetTypes.ResponseCurve.title = Krzywa reakcji
+assetTypes.ShopAsset.title = Sklep
+assetTypes.SoundEvent.title = Zdarzenie dźwiękowe
+assetTypes.Weather.title = Pogoda
+assetTypes.GrowthModifierAsset.title = Modyfikator wzrostu
+assetTypes.TagPattern.title = Wzorzec tagów
+assetTypes.ReachLocationMarkerAsset = Znacznik dotarcia do lokalizacji
+
 
 # === barter ===
 
@@ -7787,6 +7788,7 @@ universe.backup.error = An error has occurred while creating a backup: {message}
 
 world.spawn.notSet = World '{worldName}' doesn't have a spawn point set!
 world.notFound = Couldn't find world '{worldName}'!
+
 
 
 
