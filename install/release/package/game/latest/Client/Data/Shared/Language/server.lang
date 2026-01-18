@@ -3725,6 +3725,80 @@ items.Armor_Steel_Ancient_Hands.name = Starożytne Stalowe Rękawice
 items.Armor_Steel_Ancient_Head.name = Starożytny Stalowy Hełm
 items.Armor_Steel_Ancient_Legs.name = Starożytne Stalowe Nagolenniki
 
+items.Armor_Diving_Crude_Chest.name = Prymitywny Skafander
+items.Armor_Diving_Crude_Hands.name = Prymitywne Rękawice Nurka
+items.Armor_Diving_Crude_Head.name = Prymitywna Maska Nurka
+items.Armor_Diving_Crude_Legs.name = Prymitywne Płetwy
+
+items.Armor_Leather_Dark_Chest.name = [TMP] Ciemny Skórzany Pancerz
+items.Armor_Leather_Dark_Hands.name = [TMP] Ciemne Skórzane Rękawice
+items.Armor_Leather_Dark_Head.name = [TMP] Ciemny Skórzany Hełm
+items.Armor_Leather_Dark_Legs.name = [TMP] Ciemne Skórzane Spodnie
+
+items.Armor_Leather_Heavy_Chest.name = Ciężki Skórzany Pancerz
+items.Armor_Leather_Heavy_Hands.name = Ciężkie Skórzane Rękawice
+items.Armor_Leather_Heavy_Head.name = Ciężki Skórzany Hełm
+items.Armor_Leather_Heavy_Legs.name = Ciężkie Skórzane Spodnie
+
+items.Armor_Leather_Light_Chest.name = Lekki Skórzany Pancerz
+items.Armor_Leather_Light_Hands.name = Lekkie Skórzane Rękawice
+items.Armor_Leather_Light_Head.name = Lekki Skórzany Hełm
+items.Armor_Leather_Light_Legs.name = Lekkie Skórzane Spodnie
+
+items.Armor_Leather_Medium_Chest.name = [TMP] Średni Skórzany Pancerz
+items.Armor_Leather_Medium_Hands.name = [TMP] Średnie Skórzane Rękawice
+items.Armor_Leather_Medium_Head.name = [TMP] Średni Skórzany Hełm
+items.Armor_Leather_Medium_Legs.name = [TMP] Średnie Skórzane Spodnie
+
+items.Armor_Leather_Prismic_Chest.name = [TMP] Pryzmatyczny Skórzany Pancerz
+items.Armor_Leather_Prismic_Hands.name = [TMP] Pryzmatyczne Skórzane Rękawice
+items.Armor_Leather_Prismic_Head.name = [TMP] Pryzmatyczny Skórzany Hełm
+items.Armor_Leather_Prismic_Legs.name = [TMP] Pryzmatyczne Skórzane Spodnie
+
+items.Armor_Leather_Raven_Chest.name = Skórzany Pancerz Kruka
+items.Armor_Leather_Raven_Hands.name = Skórzane Rękawice Kruka
+items.Armor_Leather_Raven_Head.name = Skórzany Kaptur Kruka
+items.Armor_Leather_Raven_Legs.name = Skórzane Spodnie Kruka
+
+items.Armor_Leather_Scaled_Chest.name = [TMP] Łuskowany Skórzany Pancerz
+items.Armor_Leather_Scaled_Hands.name = [TMP] Łuskowane Skórzane Rękawice
+items.Armor_Leather_Scaled_Head.name = [TMP] Łuskowany Skórzany Hełm
+items.Armor_Leather_Scaled_Legs.name = [TMP] Łuskowane Skórzane Spodnie
+
+items.Armor_Leather_Soft_Chest.name = Miękki Skórzany Pancerz
+items.Armor_Leather_Soft_Hands.name = Miękkie Skórzane Rękawice
+items.Armor_Leather_Soft_Head.name = Miękki Skórzany Kaptur
+items.Armor_Leather_Soft_Legs.name = Miękkie Skórzane Spodnie
+
+items.Armor_Leather_Storm_Chest.name = [TMP] Burzowy Skórzany Pancerz
+items.Armor_Leather_Storm_Hands.name = [TMP] Burzowe Skórzane Rękawice
+items.Armor_Leather_Storm_Head.name = [TMP] Burzowy Skórzany Hełm
+items.Armor_Leather_Storm_Legs.name = [TMP] Burzowe Skórzane Spodnie
+
+items.Armor_Prisma_Chest.name = Pryzmatyczny Pancerz
+items.Armor_Prisma_Hands.name = Pryzmatyczne Rękawice
+items.Armor_Prisma_Head.name = Pryzmatyczny Hełm
+items.Armor_Prisma_Legs.name = Pryzmatyczne Nagolenniki
+
+items.Armor_Mithril_Chest.name = Mithrilowa zbroja
+items.Armor_Mithril_Hands.name = Mithrilowe rękawice
+items.Armor_Mithril_Head.name = Mithrilowy hełm
+items.Armor_Mithril_Legs.name = Mithrilowe nagolenniki
+
+items.Armor_Onyxium_Chest.name = Onyxiumowa zbroja
+items.Armor_Onyxium_Hands.name = Onyxiumowe rękawice
+items.Armor_Onyxium_Head.name = Onyxiumowy hełm
+items.Armor_Onyxium_Legs.name = Onyxiumowe nagolenniki
+
+items.Armor_Prisma_Chest.name = Pryzmatyczny Pancerz
+items.Armor_Prisma_Hands.name = Pryzmatyczne Rękawice
+items.Armor_Prisma_Head.name = Pryzmatyczny Hełm
+items.Armor_Prisma_Legs.name = Pryzmatyczne Nagolenniki
+
+items.Armor_QA_Chest.name = QA Cuirass - HP
+items.Armor_QA_Hands.name = QA Hands - Signature Energy
+items.Armor_QA_Legs.name = QA Legs - Stamina Energy
+
 items.Bandage_Crude.description = Użyj, aby szybko odzyskać zdrowie.\n\n<i>Choć prymitywny, ten typ bandaża był ceniony przez rycerzy zaginionej cywilizacji ze względu na łatwość, z jaką można go było wykonać z prostych materiałów bezpośrednio na polu bitwy.</i>
 items.Bandage_Crude.name = Bandaż
 items.Bandage_Potion_Test.name = Eliksir Bandażu Test
@@ -4366,7 +4440,7 @@ items.Furniture_Village_Wardrobe.name = Prosta Drewniana Szafa
 items.Furniture_Village_Window.name = Proste Drewniane Okno
 items.Geyzer_Spawner1.name = Gejzer Spawner 5 sek
 items.Greenscreen.name = Greenscreen
-items.Glider.name = Szybowiec
+items.Glider.name = Lotnia
 items.Glider.description = Work in Progress
 items.Halloween_Basket_Pumpkin.name = Halloween Pumpkin Basket
 items.Halloween_Basket_Straw.name = Halloween Straw Basket
@@ -6103,9 +6177,9 @@ items.Utility_Leather_Medium_Backpack.name = Duży Plecak
 items.Utility_Leather_Quiver.name = Skórzany Kołczan
 items.Vehicle_Wood_Boat.name = Drewniana Łódź
 items.Vehicle_Wood_Raft.name = Drewniana Tratwa
-items.Weapon_Arrow_Clearshot.name = Strzała Ostrą Celności
-items.Weapon_Arrow_Crude.name = Surowa Strzała
-items.Weapon_Arrow_Deadeye.name = Strzała Martwe Oko
+items.Weapon_Arrow_Clearshot.name = Strzała Czystej Widoczności
+items.Weapon_Arrow_Crude.name = Prymitywna Strzała
+items.Weapon_Arrow_Deadeye.name = Celna Strzała
 items.Weapon_Arrow_Iron.name = Żelazna Strzała
 items.Weapon_Arrow_Trueshot.name = Strzała Prawdziwego Strzału
 items.Weapon_Assault_Rifle.name = Karabin
