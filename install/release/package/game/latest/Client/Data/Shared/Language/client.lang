@@ -1876,6 +1876,7 @@ settings.groups.controls.blockPlacement = Stawianie bloków
 settings.groups.controls.builderTools = Narzędzia budowniczego
 settings.groups.controls.misc = Różne
 settings.groups.controls.debug = Debug
+settings.groups.controls.inventory = [TMP] Ekwipunek
 settings.groups.builderTools = Narzędzia budowniczego
 settings.groups.movement = Ruch
 settings.groups.mantling = Wspinaczka
@@ -2020,6 +2021,11 @@ settings.hideChat = Ukryj czat
 settings.hideChat.description = Ukrywa okno czatu (nie blokuje otrzymywania wiadomości).
 settings.hideHeldItem = Ukryj trzymany przedmiot
 settings.hideHeldItem.description = Ukrywa przedmiot trzymany w ręce (widok FPP).
+settings.showFpsOverlay = Nakładka FPS
+settings.showFpsOverlay.description = Wyświetla licznik klatek na sekundę w prawym górnym rogu ekranu przez cały czas.
+settings.showFpsOverlay.off = Wyłączona
+settings.showFpsOverlay.colorCoded = Włączona (Kolorowa)
+settings.showFpsOverlay.monochrome = Włączona (Monochromatyczna)
 settings.maxChatMessages = Maksymalna liczba wiadomości czatu
 settings.maxChatMessages.description = Określa maksymalną liczbę wiadomości przechowywanych w czacie.
 settings.cameraBasedFlying = Latanie zależne od kamery
@@ -2208,13 +2214,22 @@ settings.bindings.ToggleFlyCameraControlTarget.description = Przełącza, czy ka
 settings.bindings.PreviousBuilderToolsLegendPage = Legenda – poprzednia strona
 settings.bindings.NextBuilderToolsLegendPage = Legenda – następna strona
 
+settings.bindings.ContainerTakeAll = [TMP] Pojemnik: Weź wszystko
+settings.bindings.ContainerPutAll = [TMP] Pojemnik: Włóż wszystko
+settings.bindings.ContainerQuickStack = [TMP] Pojemnik: Szybkie układanie
+settings.bindings.ContainerSort = [TMP] Pojemnik: Sortuj przedmioty
+
 settings.autoJumpObstacle = Automatyczne wchodzenie na blok
 settings.autoJumpObstacle.description = Po włączeniu automatycznie wchodzisz na bloki o wysokości do 1 jednostki.
+settings.autoCrouchDownObstacle = [TMP] Automatyczne zejście przy kucaniu
+settings.autoCrouchDownObstacle.description = [TMP] Po włączeniu tej opcji podczas kucania automatycznie zejdzesz z bloków o maksymalnej wysokości 1 bloku.
 settings.enableUtilityQuickSwap = Szybka zmiana narzędzi
 settings.enableUtilityQuickSwap.description = Po włączeniu pojedyncze naciśnięcie klawisza natychmiast przełącza na kolejny przedmiot w kole narzędzi.
 settings.enableArachnophobiaMode = Tryb arachnofobii
 settings.enableArachnophobiaMode.description = Po włączeniu pająki zostaną zastąpione innym modelem (domyślnie krab).\n\n<b><color is="#b32626">Wymaga powrotu do menu głównego!</color></b>
 
+settings.enableOphidiophobiaMode = [TMP] Włącz tryb lęku przed wężami
+settings.enableOphidiophobiaMode.description = [TMP] Po włączeniu węże zostaną zastąpione innym modelem (domyślnie robakiem).\n\n<b><color is="#b32626">Ta opcja wymaga powrotu do głównego menu, aby zaczęła działać!</color></b>
 settings.autoJumpGap = Automatyczne przeskakiwanie przerw
 settings.builderMode = Tryb budowniczego
 settings.builderMode.tooltip = Po włączeniu oraz w trybie kreatywnym wyłącza niektóre efekty (np. obrażenia od upadku, kołysanie kamery itd.)
