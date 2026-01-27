@@ -6656,19 +6656,19 @@ items.Wood_Jungle_Branch_Short.name = Gałąź Dżungli - Krótka
 items.Wood_Jungle_Roots.name = Korzenie Dżungli
 items.Wood_Jungle_Trunk.name = Pień Dżungli
 items.Wood_Jungle_Trunk_Full.name = Pień Dżungli Pełny
-items.Wood_Lightwood_Beam.name = Belka Lekkiego Drewna
-items.Wood_Lightwood_Decorative.name = Deski Lekkiego Drewna - Dekoracyjne
-items.Wood_Lightwood_Fence.name = Ogrodzenie Lekkiego Drewna
-items.Wood_Lightwood_Fence_Gate.name = Brama Lekkiego Drewna
-items.Wood_Lightwood_Ornate.name = Deski Lekkiego Drewna - Ozdobne
-items.Wood_Lightwood_Planks.name = Deski Lekkiego Drewna
-items.Wood_Lightwood_Planks_Half.name = Połowa Płyty Desek Lekkiego Drewna
-items.Wood_Lightwood_Roof.name = Dach Lekkiego Drewna
-items.Wood_Lightwood_Roof_Flat.name = Dach Lekkiego Drewna - Płaski
-items.Wood_Lightwood_Roof_Hollow.name = Dach Lekkiego Drewna - Pusty
-items.Wood_Lightwood_Roof_Shallow.name = Dach Lekkiego Drewna - Płytki
-items.Wood_Lightwood_Roof_Steep.name = Dach Lekkiego Drewna - Stromy
-items.Wood_Lightwood_Stairs.name = Schody Lekkiego Drewna
+items.Wood_Lightwood_Beam.name = Belka Jasnego Drewna
+items.Wood_Lightwood_Decorative.name = Deski Jasnego Drewna - Dekoracyjne
+items.Wood_Lightwood_Fence.name = Ogrodzenie Jasnego Drewna
+items.Wood_Lightwood_Fence_Gate.name = Brama Jasnego Drewna
+items.Wood_Lightwood_Ornate.name = Deski Jasnego Drewna - Ozdobne
+items.Wood_Lightwood_Planks.name = Deski Jasnego Drewna
+items.Wood_Lightwood_Planks_Half.name = Połowa Płyty Desek Jasnego Drewna
+items.Wood_Lightwood_Roof.name = Dach Jasnego Drewna
+items.Wood_Lightwood_Roof_Flat.name = Dach Jasnego Drewna - Płaski
+items.Wood_Lightwood_Roof_Hollow.name = Dach Jasnego Drewna - Pusty
+items.Wood_Lightwood_Roof_Shallow.name = Dach Jasnego Drewna - Płytki
+items.Wood_Lightwood_Roof_Steep.name = Dach Jasnego Drewna - Stromy
+items.Wood_Lightwood_Stairs.name = Schody Jasnego Drewna
 items.Wood_Maple_Branch_Corner.name = Gałąź Klonu - Narożnik
 items.Wood_Maple_Branch_Long.name = Gałąź Klonu - Długa
 items.Wood_Maple_Branch_Short.name = Gałąź Klonu - Krótka
@@ -7798,7 +7798,7 @@ portals.portalWorld.unnamed = Nienazwany
 
 prefabs.unknown = Nieznane
 prefabs.discovered = Odkryte
-prefabs.ruinsOfRustyFort = Ruiny Rdawego Fortu
+prefabs.ruinsOfRustyFort = Ruiny Zardzewiałego Fortu
 
 # === shop ===
 
@@ -7899,6 +7899,146 @@ universe.backup.error = Podczas tworzenia kopii zapasowej doszło do błędu: {m
 
 world.spawn.notSet = Świat '{worldName}' nie ma ustawionego punktu spawn!
 world.notFound = Nie udało się znaleźć świata '{worldName}'!
+
+# === resourceType ===
+
+resourceType.Bone.name = Kość
+resourceType.Books.name = Książki
+resourceType.Bricks.name = Dowolna cegła
+resourceType.Charcoal.name = Węgiel drzewny
+resourceType.Clays.name = Gliny
+resourceType.Copper_Iron_Bar.name = Sztaby miedzi lub żelaza
+resourceType.Fish.name = Dowolna ryba
+resourceType.Fish_Common.name = Dowolna pospolita ryba
+resourceType.Fish_Epic.name = Dowolna epicka ryba
+resourceType.Fish_Legendary.name = Dowolna legendarna ryba
+resourceType.Fish_Rare.name = Dowolna rzadka ryba
+resourceType.Fish_Uncommon.name = Dowolna niepospolita ryba
+resourceType.Flowers.name = Dowolny kwiat
+resourceType.Fruits.name = Dowolny owoc
+resourceType.Fuel.name = Dowolne paliwo
+resourceType.Ice.name = Lód
+resourceType.Meats.name = Dowolne surowe mięso
+resourceType.Metal_Bars.name = Dowolne sztaby metalu
+resourceType.Milk_Bucket.name = Dowolne wiadro mleka
+resourceType.Milk_Mosshorn_Bucket.name = Dowolne wiadro mleka Mosshorn
+resourceType.Moss.name = Dowolny mech
+resourceType.Mushrooms.name = Dowolny grzyb
+resourceType.Plant_Red.name = Czerwona materia roślinna
+resourceType.Prototype_Rock_Concrete.name = Beton skalny lub bruk z betonu skalnego
+resourceType.Prototype_Rock_Concrete_Brick.name = Cegła z betonu skalnego
+resourceType.Rock.name = Dowolny kamień
+resourceType.Rock_Aqua.name = Kamień Aqua lub bruk Aqua
+resourceType.Rock_Aqua_Brick.name = Cegła Aqua
+resourceType.Rock_Basalt.name = Bazalt lub bruk bazaltowy
+resourceType.Rock_Basalt_Brick.name = Cegła bazaltowa
+resourceType.Rock_Calcite.name = Kalcyt lub bruk kalcytowy
+resourceType.Rock_Calcite_Brick.name = Cegła kalcytowa
+resourceType.Rock_Chalk.name = Kreda lub bruk kredowy
+resourceType.Rock_Chalk_Brick.name = Cegła kredowa
+resourceType.Rock_Gold_Brick.name = Złota cegła
+resourceType.Rock_Ledge.name = Ledgestone lub bruk Ledgestone
+resourceType.Rock_Ledge_Brick.name = Cegła Ledge
+resourceType.Rock_Lime.name = Wapień lub bruk wapienny
+resourceType.Rock_Lime_Brick.name = Cegła wapienna
+resourceType.Rock_Marble.name = Marmur lub bruk marmurowy
+resourceType.Rock_Marble_Brick.name = Cegła marmurowa
+resourceType.Rock_Peach.name = Brzoskwiniowy kamień lub bruk brzoskwiniowy
+resourceType.Rock_Peach_Brick.name = Cegła z brzoskwiniowego kamienia
+resourceType.Rock_Quartzite.name = Kwarcyt lub bruk z kwarcytu
+resourceType.Rock_Quartzite_Brick.name = Cegła kwarcytowa
+resourceType.Rock_Runic_Blue_Brick.name = Runiczna niebieska cegła
+resourceType.Rock_Runic_Brick.name = Runiczna cegła
+resourceType.Rock_Runic_Dark_Brick.name = Runiczna ciemna cegła
+resourceType.Rock_Runic_Teal_Brick.name = Runiczna morska cegła
+resourceType.Rock_Sandstone.name = Piaskowiec lub bruk piaskowcowy
+resourceType.Rock_Sandstone_Brick.name = Cegła piaskowcowa
+resourceType.Rock_Sandstone_Red.name = Czerwony piaskowiec lub bruk z czerwonego piaskowca
+resourceType.Rock_Sandstone_Red_Brick.name = Cegła z czerwonego piaskowca
+resourceType.Rock_Sandstone_White.name = Biały piaskowiec lub bruk z białego piaskowca
+resourceType.Rock_Sandstone_White_Brick.name = Cegła z białego piaskowca
+resourceType.Rock_Shale.name = Łupek lub bruk łupkowy
+resourceType.Rock_Shale_Brick.name = Cegła łupkowa
+resourceType.Rock_Slate.name = Łupek lub bruk łupkowy
+resourceType.Rock_Slate_Brick.name = Cegła łupkowa
+resourceType.Rock_Stone.name = Kamień lub bruk
+resourceType.Rock_Stone_Brick.name = Cegła kamienna
+resourceType.Rock_Stone_Mossy.name = Kamień porośnięty mchem lub bruk porośnięty mchem
+resourceType.Rock_Volcanic.name = Kamień wulkaniczny lub bruk wulkaniczny
+resourceType.Rock_Volcanic_Brick.name = Cegła wulkaniczna
+resourceType.Rubble.name = Dowolny gruz
+resourceType.Salvage_Adamantite.name = Dowolne sztaby metalu
+resourceType.Salvage_Bronze.name = Dowolne sztaby metalu
+resourceType.Salvage_Cobalt.name = Dowolne sztaby metalu
+resourceType.Salvage_Copper.name = Dowolne sztaby metalu
+resourceType.Salvage_Gold.name = Dowolne sztaby metalu
+resourceType.Salvage_Iron.name = Dowolne sztaby metalu
+resourceType.Salvage_Mithril.name = Dowolne sztaby metalu
+resourceType.Salvage_Onyxium.name = Dowolne sztaby metalu
+resourceType.Salvage_Prisma.name = Dowolne sztaby metalu
+resourceType.Salvage_Silver.name = Dowolne sztaby metalu
+resourceType.Salvage_Stone.name = Dowolne sztaby metalu
+resourceType.Salvage_Thorium.name = Dowolne sztaby metalu
+resourceType.Salvage_Wood.name = Dowolne sztaby metalu
+resourceType.Sands.name = Dowolny piasek
+resourceType.Soil_Clay_Brick.name = Cegła gliniana
+resourceType.Soil_Clay_Ocean_Brick.name = Cegła gliniana oceaniczna
+resourceType.Soil_Hive_Brick.name = Cegła ulowa
+resourceType.Soil_Hive_Corrupted.name = Zainfekowany ul lub bruk zainfekowanego ula
+resourceType.Soil_Hive_Corrupted_Brick.name = Cegła zainfekowanego ula
+resourceType.Soil_Snow_Brick.name = Cegła śnieżna
+resourceType.Soils.name = Dowolna gleba
+resourceType.Vegetables.name = Dowolne warzywo
+resourceType.Wood_All.name = Dowolne drewno
+resourceType.Wood_All_Trunk.name = Dowolny pień drzewa
+resourceType.Wood_Blackwood.name = Czarne drewno
+resourceType.Wood_Blackwood_Deadwood.name = Czarne drewno lub Martwe drewno
+resourceType.Wood_Blackwood_Deadwood_Trunk.name = Pień Czarnego drewna lub Martwego drewna
+resourceType.Wood_Blackwood_Deadwood_Trunk.description = Drzewa Czarnego drewna lub Martwego drewna:\n• <color is="#ffffff">Zatrute</color>\n• <color is="#ffffff">Skamieniałe</color>\n• <color is="#ffffff">Płonące</color>\n• <color is="#ffffff">Spalone</color>
+resourceType.Wood_Blackwood_Trunk.name = Pień Czarnego drewna
+resourceType.Wood_Blackwood_Trunk.description = Drzewa Czarnego drewna:\n• <color is="#ffffff">Płonące</color>\n• <color is="#ffffff">Spalone</color>
+resourceType.Wood_Darkwood.name = Ciemne drewno
+resourceType.Wood_Darkwood_Trunk.name = Pień Ciemnego drewna
+resourceType.Wood_Darkwood_Trunk.description = Drzewa Ciemnego drewna:\n• <color is="#ffffff">Cedr</color>
+resourceType.Wood_Deadwood.name = Martwe drewno
+resourceType.Wood_Deadwood_Trunk.name = Pień Martwego drewna
+resourceType.Wood_Deadwood_Trunk.description = Drzewa Martwego drewna:\n• <color is="#ffffff">Zatrute</color>\n• <color is="#ffffff">Skamieniałe</color>
+resourceType.Wood_Drywood.name = Suche drewno
+resourceType.Wood_Drywood_Goldenwood.name = Deski Suchego drewna lub Złotego drewna
+resourceType.Wood_Drywood_Goldenwood_Trunk.name = Pień Suchego drewna lub Złotego drewna
+resourceType.Wood_Drywood_Goldenwood_Trunk.description = Drzewa Suchego drewna lub Złotego drewna:\n• <color is="#ffffff">Sallow</color>\n• <color is="#ffffff">Suche</color>\n• <color is="#ffffff">Bottletree</color>
+resourceType.Wood_Drywood_Trunk.name = Pień Suchego drewna
+resourceType.Wood_Drywood_Trunk.description = Drzewa Suchego drewna:\n• <color is="#ffffff">Suche</color>\n• <color is="#ffffff">Bottletree</color>
+resourceType.Wood_Goldenwood.name = Złote drewno
+resourceType.Wood_Goldenwood_Trunk.name = Pień Złotego drewna
+resourceType.Wood_Goldenwood_Trunk.description = Drzewa Złotego drewna:\n• <color is="#ffffff">Sallow</color>
+resourceType.Wood_Greenwood.name = Zielone drewno
+resourceType.Wood_Greenwood_Trunk.name = Pień Zielonego drewna
+resourceType.Wood_Greenwood_Trunk.description = Drzewa Zielonego drewna:\n• <color is="#ffffff">Palo</color>\n• <color is="#ffffff">Dżungla</color>
+resourceType.Wood_Hardwood.name = Twarde drewno
+resourceType.Wood_Hardwood_Trunk.name = Pień Twardego drewna
+resourceType.Wood_Hardwood_Trunk.description = Drzewa Twardego drewna:\n• <color is="#ffffff">Dąb</color>\n• <color is="#ffffff">Jesion</color>\n• <color is="#ffffff">Jodła</color>
+resourceType.Wood_Ice.name = Lód
+resourceType.Wood_Ice_Trunk.name = Pnie lodowe
+resourceType.Wood_Lightwood.name = Jasne drewno
+resourceType.Wood_Lightwood_Softwood.name = Jasne drewno lub Miękkie drewno
+resourceType.Wood_Lightwood_Softwood_Trunk.name = Pień Jasnego drewna lub Miękkiego drewna
+resourceType.Wood_Lightwood_Softwood_Trunk.description = Drzewa Jasnego drewna lub Miękkiego drewna:\n• <color is="#ffffff">Brzoza</color>\n• <color is="#ffffff">Kamfora</color>\n• <color is="#ffffff">Gumboab</color>\n• <color is="#ffffff">Banyan</color>\n• <color is="#ffffff">Buk</color>\n• <color is="#ffffff">Osika</color>
+resourceType.Wood_Lightwood_Trunk.name = Pień Jasnego drewna
+resourceType.Wood_Lightwood_Trunk.description = Drzewa Jasnego drewna:\n• <color is="#ffffff">Brzoza</color>\n• <color is="#ffffff">Kamfora</color>\n• <color is="#ffffff">Gumboab</color>
+resourceType.Wood_Planks.name = Dowolne deski
+resourceType.Wood_Redwood.name = Sekwojowe drewno
+resourceType.Wood_Redwood_Trunk.name = Pień sekwojowego drewna
+resourceType.Wood_Redwood_Trunk.description = Drzewa sekwojowego drewna:\n• <color is="#ffffff">Sekwoja</color>\n• <color is="#ffffff">Klon</color>\n• <color is="#ffffff">Fig Blue</color>
+resourceType.Wood_Softwood.name = Miękkie drewno
+resourceType.Wood_Softwood_Trunk.name = Pień miękkiego drewna
+resourceType.Wood_Softwood_Trunk.description = Drzewa miękkiego drewna:\n• <color is="#ffffff">Banyan</color>\n• <color is="#ffffff">Buk</color>\n• <color is="#ffffff">Osika</color>
+resourceType.Wood_Tropicalwood.name = Tropikalne drewno
+resourceType.Wood_Tropicalwood_Greenwood.name = Pień tropikalnego drewna lub Zielonego drewna
+resourceType.Wood_Tropicalwood_Greenwood_Trunk.name = Pień tropikalnego drewna lub Zielonego drewna
+resourceType.Wood_Tropicalwood_Trunk.name = Pień tropikalnego drewna
+resourceType.Wood_Tropicalwood_Trunk.description = Drzewa tropikalnego drewna:\n• <color is="#ffffff">Bambus</color>
+resourceType.Wood_Trunk.name = Dowolny pień drzewa
 
 
 
