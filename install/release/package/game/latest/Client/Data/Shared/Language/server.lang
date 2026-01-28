@@ -3901,7 +3901,7 @@ items.Cloth_Roof_Yellow.name = Żółty dach z tkaniny - Pochylony
 items.Cloth_Roof_Yellow_Flap.name = Żółty dach z tkaniny - Fala
 items.Cloth_Roof_Yellow_Flat.name = Żółty dach z tkaniny - Poziomy
 items.Cloth_Roof_Yellow_Vertical.name = Żółty dach z tkaniny - Pionowy
-items.Container_Bucket.name = Drewniany wiadro
+items.Container_Bucket.name = Drewniane Wiadro
 items.Container_Bucket.description = [TMP] Można wypełnić <color is="#ffffff">Wodą</color> lub użyć do dojenia <color is="#ffffff">Krów</color>.
 items.Container_Bucket_Water.name = Drewniany wiadro (Woda)
 items.Container_Bucket_Water.description = [TMP] Zawiera <color is="#ffffff">Wodę</color>, którą można umieścić w świecie.
@@ -6097,7 +6097,7 @@ items.Tool_Capture_Crate.nameFull = Klatka Łapiąca ({npc})
 items.Tool_Capture_Crate.description = Używane do łapania małych zwierząt, aby móc je zabrać do domu.
 items.Tool_Feedbag.name = Torba Paszowa
 items.Tool_Feedbag.description = [TMP] Torba paszy dla zwierząt, niektóre zwierzęta mogą być nią zwabione.
-items.Tool_Fertilizer.name = Torba Nawozów
+items.Tool_Fertilizer.name = Torba Nawozu
 items.Tool_Fertilizer.description = [TMP] Używana do nawożenia uprawianej gleby. Nawożone uprawy rosną <color is="#4ade80">2x</color> szybciej.
 items.Tool_Fishing_Trap.name = Pułapka Rybacka
 items.Tool_Fishing_Trap.description = Ustaw nad wodą, aby łapać ryby przez czas.
@@ -6122,6 +6122,7 @@ items.Tool_Hatchet_Wood.name = Drewniana Siekiera
 items.Tool_Hoe_Copper.name = Miedziana Motyka
 items.Tool_Hoe_Crude.name = Kamienna Motyka
 items.Tool_Hoe_Iron.name = Żelazna Motyka
+items.Tool_Hoe_Thorium.name = Torowa Motyka
 items.Tool_Hoe.description = Użyj do orania ziemi lub trawy.
 items.Tool_Map.name = Mapa
 items.Tool_Pickaxe_Adamantite.name = Adamantytowy Kilof
@@ -6231,7 +6232,7 @@ items.Weapon_Shortbow_Bronze.name = Brązowy Krótki Łuk
 items.Weapon_Shortbow_Cobalt.name = Kobaltowy Krótki Łuk 
 items.Weapon_Shortbow_Combat.name = Bojowy Krótki Łuk 
 items.Weapon_Shortbow_Copper.name = Miedziany Krótki Łuk 
-items.Weapon_Shortbow_Crude.name = drewniany Krótki Łuk
+items.Weapon_Shortbow_Crude.name = Drewniany Krótki Łuk
 items.Weapon_Shortbow_Doomed.name = Krótki Łuk Przeklętego Outlandera
 items.Weapon_Shortbow_Flame.name = Krótki Łuk Płomienia
 items.Weapon_Shortbow_Frost.name = Krótki Łuk Mrozu
